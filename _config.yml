@@ -1,3 +1,8 @@
- theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
+#gem "github-pages", group: :jekyll_plugins
 #remote_theme: hexo-theme-aomori
 title: Blog 
+description: 卒子过河，意在将军！
+
+#show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
